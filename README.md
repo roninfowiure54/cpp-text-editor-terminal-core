@@ -16,3 +16,6 @@ Compile: `g++ src/editor.cpp -o editor`
 
 ---
 *Released under the MIT License by nxtdy2020rr.*
+
+---
+*Released under the MIT License by jocck96.*
